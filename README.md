@@ -2,7 +2,7 @@
 
 DynamicPortals is a robust Spigot/Paper plugin that allows players to create, manage, and customize their own teleportation waypoints using a physical multi-block structure. It features a fully interactive GUI, multi-language support, and admin management tools.
 
-## 🌟 Features
+## Features
 
 - **Custom Crafting Recipe:** Create the "Dimensional Core" using rare materials.
 - **Multi-Block Structure:** Requires a specific 3x3 base to function.
@@ -14,13 +14,13 @@ DynamicPortals is a robust Spigot/Paper plugin that allows players to create, ma
 - **Admin Tools:** Manage limits, delete player data, and change plugin language on the fly.
 - **Multi-Language:** Supports English (EN), Spanish (ES), French (FR), and Portuguese (PT).
 
-## 🛠️ Installation
+## Installation
 
 1. Drop `DynamicPortals.jar` into your server's `plugins` folder.
 2. Restart the server.
 3. The `config.yml` and data files will generate automatically.
 
-## 🎮 Gameplay & Usage
+## Gameplay & Usage
 
 ### 1. Crafting the Core
 
@@ -47,7 +47,7 @@ To create a portal, you first need the **Dimensional Core**.
 - Select a destination to teleport instantly.
 - Click the **Comparator** icon to manage your existing portals (Edit Icon/Name or Delete).
 
-## 👮 Admin Commands & Permissions
+## Admin Commands & Permissions
 
 All administrative commands require the permission node: `dynamicportals.admin` (or OP).
 
