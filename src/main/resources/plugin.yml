@@ -1,0 +1,13 @@
+name: DynamicPortals
+version: 1.0
+main: com.crepe.portals.DynamicPortals
+api-version: 1.21
+authors: [crepe777]
+
+
+commands:
+  portaladmin:
+    description: Command For Changing the Language
+    usage: /portaladmin language <ES|EN|FR|PT>
+    permission: dynamicportals.admin
+    permission-message: You don't have permissions.
